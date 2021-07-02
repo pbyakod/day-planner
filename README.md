@@ -2,20 +2,20 @@
 
 ### Deployed URL
 
-https//vvv.placeholder.website.com/dont-click-this
+https://pbyakod.github.io/worklife-calendar/
 
 ### Short Description 
 
 This project aims to make people's worklife easier, by allowing them to continually plan and update their day based on the hour. The worklife calendar is a scheduling page that displays the day's normal buisness hours. Each hour contains a text field where users can enter relevant thoughts or plans, as well as a save button to store the text onto local storage. This way, they don't lose what they've scheduled incase they accidentally cancel or refresh the website. 
 
 ### User Story
-
+```
 - AS AN employee with a busy schedule
 - I WANT to add important events to a daily planner
 - SO THAT I can manage my time effectively
-
+```
 ### Acceptance Criteria
-
+```
 - GIVEN I am using a daily planner to create a schedule
 - WHEN I open the planner
 - THEN the current day is displayed at the top of the calendar
@@ -29,7 +29,7 @@ This project aims to make people's worklife easier, by allowing them to continua
 - THEN the text for that event is saved in local storage
 - WHEN I refresh the page
 - THEN the saved events persist
-
+```
 
 ### Project Walkthrough
 
