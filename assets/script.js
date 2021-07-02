@@ -100,3 +100,21 @@ else {
         amArray[i].style.backgroundColor = 'lightgrey';
     }
 }
+
+$(document).ready(function () {
+    $(".save-align").on("click", function () {
+        var textEl = $(this).siblings(".text").val();
+        var hourEl = $(this).parent().attr("id");
+        localStorage.setItem(hourEl, textEl);
+    })
+});
+
+$("#nineblock .text").val(localStorage.getItem("nineblock"));
+$("#tenblock .text").val(localStorage.getItem("tenblock"));
+$("#elevenblock .text").val(localStorage.getItem("elevenblock"));
+$("#twelveblock .text").val(localStorage.getItem("twelveblock"));
+$("#oneblock .text").val(localStorage.getItem("oneblock"));
+$("#twoblock .text").val(localStorage.getItem("twoblock"));
+$("#threeblock .text").val(localStorage.getItem("threeblock"));
+$("#fourblock .text").val(localStorage.getItem("fourblock"));
+$("#fiveblock .text").val(localStorage.getItem("fiveblock"));
