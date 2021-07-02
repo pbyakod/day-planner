@@ -28,6 +28,21 @@ textarea{
 .time-block{
   text-align: center;
   border-radius: 15px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.col-align {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.save-align {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0 15px 15px 0;
 }
 
 .row {
