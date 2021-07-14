@@ -35,4 +35,10 @@ This project aims to make people's worklife easier, by allowing them to continua
 
 ![Project Gif](./assets/images/project.gif)
 
+### License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
 
