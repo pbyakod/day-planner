@@ -1,20 +1,22 @@
-# Worklife Calendar
+# Day Planner
 
-### Deployed URL
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-https://pbyakod.github.io/worklife-calendar/
+## Deployed URL
 
-### Short Description 
+<a href="https://pbyakod.github.io/day-planner/">Click me!</a>
+
+## Short Description 
 
 This project aims to make people's worklife easier, by allowing them to continually plan and update their day based on the hour. The worklife calendar is a scheduling page that displays the day's normal buisness hours. Each hour contains a text field where users can enter relevant thoughts or plans, as well as a save button to store the text onto local storage. This way, they don't lose what they've scheduled incase they accidentally cancel or refresh the website. 
 
-### User Story
+## User Story
 ```
 - AS AN employee with a busy schedule
 - I WANT to add important events to a daily planner
 - SO THAT I can manage my time effectively
 ```
-### Acceptance Criteria
+## Acceptance Criteria
 ```
 - GIVEN I am using a daily planner to create a schedule
 - WHEN I open the planner
@@ -31,14 +33,7 @@ This project aims to make people's worklife easier, by allowing them to continua
 - THEN the saved events persist
 ```
 
-### Project Walkthrough
+## Project Walkthrough
 
 ![Project Gif](./assets/images/project.gif)
-
-### License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
-
 
